@@ -3,5 +3,6 @@
 # List of name
 - Daisuke
 - Neeti
+- Fakih
 - Ogura
 - Zhang
