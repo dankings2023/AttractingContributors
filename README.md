@@ -5,4 +5,5 @@
 - Neeti
 - Fakih
 - Ogura
+- Shogo
 - Zhang
