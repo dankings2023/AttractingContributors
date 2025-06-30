@@ -4,3 +4,5 @@
 - Daisuke
 - Neeti
 - Fakih
+- Ogura
+- Zhang
